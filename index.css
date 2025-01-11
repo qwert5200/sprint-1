@@ -240,6 +240,7 @@ span {
   color: #2f80ed;
   font-size: 36px;
   position: absolute;
+  text-decoration: none;
   right: 0;
   margin-right: 48px;
   top: 50%;
